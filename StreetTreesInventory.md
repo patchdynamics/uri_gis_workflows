@@ -20,6 +20,7 @@ Inventory Protocol for URI Street Trees
 		1. Enter Summary and Description (center bottom), use appropriately descriptive text.  File is auto-timestamped
 		1. Click 'Commit to Master' (center bottom)
 		1. Click Sync (upper right corner)
+		1. Data is now published here: https://github.com/urban-resources-initiative/uri-street-trees
 	1. Your file is now backed up, return to ArcGIS Online
 1. Navigate to the map layer(s) you will be sharing for edit capability
 	1. Note that map layers are not the same as feature service layers
