@@ -1,5 +1,6 @@
 
 Steps to publish a layer to ArcGIS online and make it available for editing via Collector for iOS/Android
+NOTE: This process will not enable drop down menus in your editing interface withing Collector!  For that functionality you MUST use the -FullService variant of this workflow.
 
 1. Locate a GIS file (shapfile or file geodatabase of your data)
 1. If your GIS file is not a file geodatabase, use ArcGIS to convert it to a layer in an otherwise empty file geodatabase
