@@ -36,7 +36,7 @@ Inventory Protocol for URI Street Trees
 	1. TODO: Server location provided by Collean
 1. Load Street Trees layer into Yale ArcGIS Server (TODO: May Be Optional)
 	1. NOTE: this process creates feature layers for each collection period, may be unnecessary.
-	1. TODO: define 
+	1. TODO: define time step for this
 	1. Connect to server using Microsoft Remote Desktop
 	1. Load file to remote Desktop using shared folder
 		1. TODO: configuration instructioins
